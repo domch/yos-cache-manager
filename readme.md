@@ -1,4 +1,4 @@
-# Media Management Service
+# YOS Cache Manager
 
 ## Description
 This service stores
@@ -8,13 +8,6 @@ This service stores
 * Maven 3.6.1+
 
 ## Build and Run
-
-### Local
-Use spring profile "local" to be able to start the app locally.
-
-```
--Dspring.profiles.active=local
-```
 
 #### Lombok
 
